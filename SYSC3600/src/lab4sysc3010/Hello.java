@@ -13,7 +13,7 @@ public class Hello {
 
 	public void methodA() {
 		System.out.println("Hello");
-		//Steven added this line p3
+		//Nathan removed this line
 		//Steven added this line p2
 	}
 		
