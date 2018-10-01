@@ -18,6 +18,7 @@ public class Hello {
 		
 	public void methodB() {
 		//Nathan doesn't like methodB
+		// but I'm willing to accept
 	}
 
 	public void methodC() { }
