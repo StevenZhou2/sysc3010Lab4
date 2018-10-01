@@ -15,7 +15,9 @@ public class Hello {
 		System.out.println("Hello");
 	}
 		
-	public void methodB() { }
+	public void methodB() {
+		//Nathan doesn't like methodB
+	}
 
 	public void methodC() { }
 }
