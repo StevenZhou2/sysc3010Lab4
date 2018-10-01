@@ -11,8 +11,10 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA() { }
-
+	public void methodA() {
+		System.out.println("Hello");
+	}
+		
 	public void methodB() { }
 
 	public void methodC() { }
